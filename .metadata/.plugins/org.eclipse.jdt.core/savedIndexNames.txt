@@ -1,0 +1,2 @@
+INDEX VERSION 1.130+/home/yacine/Documents/Master01/DLP_BIS/.metadata/.plugins/org.eclipse.jdt.core
+25857047.index

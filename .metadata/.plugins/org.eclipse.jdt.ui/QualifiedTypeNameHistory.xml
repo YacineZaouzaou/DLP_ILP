@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="com.paracamplus.ilp1.interpreter.test.InterpreterTest"/>
+<fullyQualifiedTypeName name="com.paracamplus.ilp1.ilp1tme1.FileInterpreter"/>
+<fullyQualifiedTypeName name="com.sun.xml.internal.bind.v2.runtime.unmarshaller.XsiNilLoader.Array"/>
+<fullyQualifiedTypeName name="java.util.Arrays"/>
+<fullyQualifiedTypeName name="com.paracamplus.ilp1.interfaces.IASTexpression"/>
+<fullyQualifiedTypeName name="antlr4.ILPMLgrammar1tme2Lexer"/>
+<fullyQualifiedTypeName name="antlr4.ILPMLgrammar1tme2Parser"/>
+<fullyQualifiedTypeName name="org.junit.runners.Parameterized"/>
+<fullyQualifiedTypeName name="org.junit.runner.RunWith"/>
+<fullyQualifiedTypeName name="antlr4.ILPMLgrammar1Parser.ConstFloatContext"/>
+<fullyQualifiedTypeName name="antlr4.ILPMLgrammar1Parser.ConstIntegerContext"/>
+<fullyQualifiedTypeName name="antlr4.ILPMLgrammar1Parser.ConstStringContext"/>
+<fullyQualifiedTypeName name="antlr4.ILPMLgrammar1Parser.ConstFalseContext"/>
+<fullyQualifiedTypeName name="antlr4.ILPMLgrammar1Parser.ConstTrueContext"/>
+<fullyQualifiedTypeName name="com.paracamplus.ilp1.ilp1tme2.ex2.CountConstants"/>
+<fullyQualifiedTypeName name="java.lang.IllegalArgumentException"/>
+<fullyQualifiedTypeName name="com.paracamplus.ilp1.interpreter.test.InterpreterRunner"/>
+</qualifiedTypeNameHistroy>
